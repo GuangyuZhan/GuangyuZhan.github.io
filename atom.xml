@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Blog</title>
   
-  
-  <link href="/atom.xml" rel="self"/>
+  <subtitle>一只小白程序猿的blog</subtitle>
+  <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://guangyuzhan.github.io/blog/"/>
   <updated>2020-03-28T02:48:18.103Z</updated>

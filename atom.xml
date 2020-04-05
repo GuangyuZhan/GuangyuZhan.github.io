@@ -6,7 +6,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://guangyuzhan.github.io/blog/"/>
-  <updated>2020-04-05T07:43:40.459Z</updated>
+  <updated>2020-04-05T08:44:52.015Z</updated>
   <id>https://guangyuzhan.github.io/blog/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>学习前端的利器——Google Chrome浏览器（一）</title>
-    <link href="https://guangyuzhan.github.io/blog/2020/04/01/%E5%AD%A6%E4%B9%A0%E5%89%8D%E7%AB%AF%E7%9A%84%E5%88%A9%E5%99%A8%E2%80%94%E2%80%94Chrome%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
-    <id>https://guangyuzhan.github.io/blog/2020/04/01/%E5%AD%A6%E4%B9%A0%E5%89%8D%E7%AB%AF%E7%9A%84%E5%88%A9%E5%99%A8%E2%80%94%E2%80%94Chrome%E6%B5%8F%E8%A7%88%E5%99%A8/</id>
+    <link href="https://guangyuzhan.github.io/blog/posts/3ee94c8c/"/>
+    <id>https://guangyuzhan.github.io/blog/posts/3ee94c8c/</id>
     <published>2020-04-01T13:18:09.999Z</published>
-    <updated>2020-04-05T07:43:40.459Z</updated>
+    <updated>2020-04-05T08:44:52.015Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\blog\assets\css\APlayer.min.css"><script src="\blog\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\blog\assets\js\Meting.min.js"></script><hr><a id="more"></a><p>俗话说的好：“公欲成其事，必先利其器”，相信从这句话大家就可以看出一个好的辅助工具对于学习或者工作来说有多么重要，那么下面我们就来详细说说这把 “利器——Google Chrome” 。</p><hr><h3 id="1：为什么需要用Google-Chrome浏览器？"><a href="#1：为什么需要用Google-Chrome浏览器？" class="headerlink" title="1：为什么需要用Google Chrome浏览器？"></a>1：为什么需要用Google Chrome浏览器？</h3><div align=center><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdixayg7b3j308p07u0ss.jpg"/></div><p>Google Chrome，用一句话形容就是：<strong>目前世界上最好的浏览器，没有之一！</strong></p><div align=center><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdixd6quovj31ca0nk47e.jpg"/></div><p>上图来自百度统计近24个月全球浏览器排行数据，谷歌浏览器以38.67%的使用量遥遥领先。</p><div align=center><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdixdsnqhfj30ag07ut8t.jpg"/></div><p>Chrome是由Google开发的一款简单便捷的网页浏览工具。谷歌浏览器(Google Chrome)可以提帮助你快速、安全的搜索到自己需要的内容，功能强大，可以保证用户在多开网页的情况下使浏览器快速稳定运行。</p><p>用户使用量大，基本表示产品本身好，才会有这么多的人都使用，毕竟，大家都说好，才是真的好嘛。</p><div align=center><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdixek4wm0j308c08caa5.jpg"/></div><p>我是怎么接触到这个浏览器呢，其实开始我就觉得无所谓，IE就够用了，毕竟windows自带的浏览器，没广告，看着干净，可是在经历了无数次的网页崩溃以后，我放弃了，就找一款替代的浏览器，用过UC，QQ，搜狗等，也没用多久，广告太多了，在逛知乎的时候，看见有人推荐谷歌浏览器，就试了试，发现没广告，界面也很整洁，速度快，稳定性高，最最最强的就是可扩展性了，谷歌浏览器有一个扩展应用商店，可以安装各种扩展插件，有很多功能强大且免费的插件可以用。</p><div align=center><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdixbuje5dj315c0od451.jpg"/></div><hr><h3 id="2-如何正确使用Google-Chrome浏览器："><a href="#2-如何正确使用Google-Chrome浏览器：" class="headerlink" title="2.如何正确使用Google Chrome浏览器："></a>2.如何正确使用Google Chrome浏览器：</h3><p>有好多人问：谷歌在中国都不能用，它的浏览器能好使吗？</p><p>其实完全不用担心，谷歌浏览器是可以更改默认搜索引擎的，替换成百度一样用，而且还自带网页翻译，下面我们来看看如何安装和使用吧！</p><p>首先，下载官方的谷歌浏览器安装包安装，一定选择官方的，安全，纯净。</p><div align=center><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdixffrterj305i05a3yc.jpg"/></div><p>当然没有，众所周知咱们国家的长城安全系统对外网实行了非常严密的封锁，首当其冲的便是对外网乃至于全世界最power的浏览器，而上文的方法只能使用百度，就摒弃了谷歌浏览器的大量优点，这会给我们程序猿日常的学习带来很多不变，那么我们如何解决这个问题呢。</p><p>诸如网上很多的科学上网方法我在此也不多加累赘。在此我给大家推荐一种最省心便捷的方法：</p><p>首先我们百度极简插件，下载谷歌访问助手，如下图：</p><div align=center><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdixfwcoipj31gl0n8jw8.jpg"/></div><p>开启PP谷歌访问助手，你会惊奇的发现，你可以访问谷歌搜索了，由于外网的网站都是托管于国外的服务器，访问速度应该不会快，but 这不是个问题，宝藏都向我们招手了，难道我们还因为路远而不去？</p><div align=center><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdixgfh5oyj306y06ydfu.jpg"/></div><p>给大家推荐一个免费的vpn插件，油管速度高达2000k，油管1080k随便看，学习happy两不误。</p><div align=center><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdixh0iq10j31530nuq6q.jpg"/></div><p>安装启动Astar VPN ，记住启动的同时关闭PP助手。基础配置就结束啦。Github，Youtube刷起来。</p><div align=center><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdixhj5o1oj308407yq36.jpg"/></div><hr><p>ps：篇幅有限，诸如科学上网v2ray和ssr的问题有时间我会写一个博文具体讲述，上文中扩展程序的具体安装步骤可自行百度。</p><hr><p>Google Chrome的基础功能准备好了，下一篇我会给大家详细推荐适合学习的各个插件，都是我亲身体验过的。使用好他们，绝对让你的学习和工作事半功倍。</p><hr><div align=center><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdixhxzwqug308c08cq42.gif"/></div>]]></content>
     
@@ -37,10 +37,10 @@
   
   <entry>
     <title>我的第一篇博客</title>
-    <link href="https://guangyuzhan.github.io/blog/2020/03/27/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <id>https://guangyuzhan.github.io/blog/2020/03/27/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
+    <link href="https://guangyuzhan.github.io/blog/posts/d95d7e09/"/>
+    <id>https://guangyuzhan.github.io/blog/posts/d95d7e09/</id>
     <published>2020-03-27T09:56:59.000Z</published>
-    <updated>2020-03-31T01:51:09.658Z</updated>
+    <updated>2020-04-05T08:44:52.016Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\blog\assets\css\APlayer.min.css"><script src="\blog\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\blog\assets\js\Meting.min.js"></script><hr><a id="more"></a><h2 id="一：概述"><a href="#一：概述" class="headerlink" title="一：概述"></a>一：概述</h2><h3 id="这是我的第一篇博客，主要是分享IT成长之路的坎坷，不同于网上技术大牛的代码超快处理，我会从一个科技小白的角度来认识问题，解剖问题，最后解决问题，相信这些会对你更有帮助。"><a href="#这是我的第一篇博客，主要是分享IT成长之路的坎坷，不同于网上技术大牛的代码超快处理，我会从一个科技小白的角度来认识问题，解剖问题，最后解决问题，相信这些会对你更有帮助。" class="headerlink" title="这是我的第一篇博客，主要是分享IT成长之路的坎坷，不同于网上技术大牛的代码超快处理，我会从一个科技小白的角度来认识问题，解剖问题，最后解决问题，相信这些会对你更有帮助。"></a>这是我的第一篇博客，主要是分享IT成长之路的坎坷，不同于网上技术大牛的代码超快处理，我会从一个科技小白的角度来认识问题，解剖问题，最后解决问题，相信这些会对你更有帮助。</h3><h2 id="二-今后主要涉及内容："><a href="#二-今后主要涉及内容：" class="headerlink" title="二.今后主要涉及内容："></a>二.今后主要涉及内容：</h2><h3 id="1-python基础知识，网页爬虫。"><a href="#1-python基础知识，网页爬虫。" class="headerlink" title="(1).python基础知识，网页爬虫。"></a>(1).python基础知识，网页爬虫。</h3><h3 id="2-html-html5-css-js等前端知识"><a href="#2-html-html5-css-js等前端知识" class="headerlink" title="(2).html-html5,css,js等前端知识"></a>(2).html-html5,css,js等前端知识</h3><h3 id="3-Linux操作系统基本操作指令"><a href="#3-Linux操作系统基本操作指令" class="headerlink" title="(3).Linux操作系统基本操作指令"></a>(3).Linux操作系统基本操作指令</h3><h3 id="4-Mysql数据库基本操作指令"><a href="#4-Mysql数据库基本操作指令" class="headerlink" title="(4).Mysql数据库基本操作指令"></a>(4).Mysql数据库基本操作指令</h3><h3 id="后期可能会涉及java，php等一系列知识。"><a href="#后期可能会涉及java，php等一系列知识。" class="headerlink" title="后期可能会涉及java，php等一系列知识。"></a>后期可能会涉及java，php等一系列知识。</h3><hr><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1344409334&auto=0&height=66"></iframe><hr><h3 id="想了解更多请猛戳-关于我"><a href="#想了解更多请猛戳-关于我" class="headerlink" title="想了解更多请猛戳 关于我 "></a>想了解更多请猛戳<a href="https://guangyuzhan.github.io/blog/about.html" title=" 关于我 "> 关于我 </a></h3>]]></content>
     
@@ -56,10 +56,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://guangyuzhan.github.io/blog/2020/03/27/hello-world/"/>
-    <id>https://guangyuzhan.github.io/blog/2020/03/27/hello-world/</id>
+    <link href="https://guangyuzhan.github.io/blog/posts/4a17b156/"/>
+    <id>https://guangyuzhan.github.io/blog/posts/4a17b156/</id>
     <published>2020-03-27T04:41:15.821Z</published>
-    <updated>2020-03-29T10:34:41.137Z</updated>
+    <updated>2020-04-05T08:44:52.013Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\blog\assets\css\APlayer.min.css"><script src="\blog\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\blog\assets\js\Meting.min.js"></script><hr><a id="more"></a><p>Welcome to <a href="https://https://guangyuzhan.github.io/blog/" target="_blank" rel="noopener">My Blog</a>! This is my first post.Then we can talk about It.Just think me as your goood frend.<br>Just do it!</p><hr><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1320129059&auto=0&height=66"></iframe><hr>]]></content>
     

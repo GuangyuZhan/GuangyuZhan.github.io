@@ -6,7 +6,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://guangyuzhan.github.io/blog/"/>
-  <updated>2020-04-05T10:38:33.129Z</updated>
+  <updated>2020-04-12T07:55:51.525Z</updated>
   <id>https://guangyuzhan.github.io/blog/</id>
   
   <author>
@@ -17,13 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>工具（二）</title>
+    <link href="https://guangyuzhan.github.io/blog/posts/3233582462/"/>
+    <id>https://guangyuzhan.github.io/blog/posts/3233582462/</id>
+    <published>2020-04-12T04:16:42.918Z</published>
+    <updated>2020-04-12T07:55:51.525Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\blog\assets\css\APlayer.min.css"><script src="\blog\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\blog\assets\js\Meting.min.js"></script><p>相信读过我上一篇博文的朋友已经了解了谷歌浏览器的强大，自己用的时候却感觉还不如IE浏览器、QQ浏览器、UC浏览器等这些国产浏览器功能丰富。那只能说明是你还不会用~</p><hr><a id="more"></a><p>谷歌浏览器（Google Chrome）不仅拥有极简界面、运行速度快、稳定性高等优点，还有一个最大的优势就是其拥有强大的扩展能力，合理使用插件便可以实现多种强大的功能。</p><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdqo7v4570j31hc0u0e82.jpg"><p>Chrome专门有一个网上应用商店便可以下载各种插件（不知道可看上文），科学上网简便方法相信大家已经掌握，本文便不做赘述，进入正题，我们重点来聊聊咱们生活中实用的插件：</p><div align="center"><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdqolr26a6j305r06r747.jpg"></div><hr><h2 id="1-翻译："><a href="#1-翻译：" class="headerlink" title="1. 翻译："></a>1. 翻译：</h2><ul><li><h3 id="谷歌翻译："><a href="#谷歌翻译：" class="headerlink" title="谷歌翻译："></a>谷歌翻译：</h3><h4 id="谷歌浏览器已经内置了这款插件，当你浏览英文网站时会自动检测，出现按钮时你一点击，也可以不点击（需要设置）就会翻译为中文，对于英语渣的朋友来说简直是福音。"><a href="#谷歌浏览器已经内置了这款插件，当你浏览英文网站时会自动检测，出现按钮时你一点击，也可以不点击（需要设置）就会翻译为中文，对于英语渣的朋友来说简直是福音。" class="headerlink" title="谷歌浏览器已经内置了这款插件，当你浏览英文网站时会自动检测，出现按钮时你一点击，也可以不点击（需要设置）就会翻译为中文，对于英语渣的朋友来说简直是福音。"></a>谷歌浏览器已经内置了这款插件，当你浏览英文网站时会自动检测，出现按钮时你一点击，也可以不点击（需要设置）就会翻译为中文，对于英语渣的朋友来说简直是福音。</h4></li></ul><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdqp3z00prj31hc0tz17v.jpg"><ul><li><h3 id="沙拉查词："><a href="#沙拉查词：" class="headerlink" title="沙拉查词："></a>沙拉查词：</h3><h4 id="翻译插件这块几乎与谷歌翻译平分天下的一个插件，支持右键划词搜索，方便快捷，适用于你不想全文翻译的场景。"><a href="#翻译插件这块几乎与谷歌翻译平分天下的一个插件，支持右键划词搜索，方便快捷，适用于你不想全文翻译的场景。" class="headerlink" title="翻译插件这块几乎与谷歌翻译平分天下的一个插件，支持右键划词搜索，方便快捷，适用于你不想全文翻译的场景。"></a>翻译插件这块几乎与谷歌翻译平分天下的一个插件，支持右键划词搜索，方便快捷，适用于你不想全文翻译的场景。</h4><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdqymfhojhj31hc0u0aop.jpg"></li></ul><h3 id="上述两款翻译插件基本已经可以满足日常99-的翻译需求了，当然，学好英语-is-important-适当用下翻译插件来查漏补缺-，查找学习资料会便捷不少。"><a href="#上述两款翻译插件基本已经可以满足日常99-的翻译需求了，当然，学好英语-is-important-适当用下翻译插件来查漏补缺-，查找学习资料会便捷不少。" class="headerlink" title="上述两款翻译插件基本已经可以满足日常99%的翻译需求了，当然，学好英语 is important ,适当用下翻译插件来查漏补缺 ，查找学习资料会便捷不少。"></a>上述两款翻译插件基本已经可以满足日常99%的翻译需求了，当然，学好英语 is important ,适当用下翻译插件来查漏补缺 ，查找学习资料会便捷不少。</h3><hr><h2 id="2-脚本："><a href="#2-脚本：" class="headerlink" title="2.脚本："></a>2.脚本：</h2><p>网上关于油猴与暴力猴那个好用的争论持久不休，我不喜欢去参与争论，毕竟都是服务类插件，体验最重要，私底下两个插件都体验过，就我看来暴力猴的稳定性要更胜一筹。</p><ul><li><h3 id="暴力猴："><a href="#暴力猴：" class="headerlink" title="暴力猴："></a>暴力猴：</h3><h4 id="它是一个脚本管理器，你可以通过网站（https-greasyfork-org-zh-CN-scripts）下载各种脚本安装实现多种功能，比如网页端网盘直接下载、去视频广告等都可以通过这个实现，当然功能很多，大家有时间可以自己去探索一下。"><a href="#它是一个脚本管理器，你可以通过网站（https-greasyfork-org-zh-CN-scripts）下载各种脚本安装实现多种功能，比如网页端网盘直接下载、去视频广告等都可以通过这个实现，当然功能很多，大家有时间可以自己去探索一下。" class="headerlink" title="它是一个脚本管理器，你可以通过网站（https://greasyfork.org/zh-CN/scripts）下载各种脚本安装实现多种功能，比如网页端网盘直接下载、去视频广告等都可以通过这个实现，当然功能很多，大家有时间可以自己去探索一下。"></a>它是一个脚本管理器，你可以通过网站（<a href="https://link.zhihu.com/?target=https%3A//greasyfork.org/zh-CN/scripts">https://greasyfork.org/zh-CN/scripts</a>）下载各种脚本安装实现多种功能，比如网页端网盘直接下载、去视频广告等都可以通过这个实现，当然功能很多，大家有时间可以自己去探索一下。</h4><div align="center"><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdqu7edrbyj304e048mx0.jpg"></div></li></ul><hr><h2 id="3-屏蔽广告："><a href="#3-屏蔽广告：" class="headerlink" title="3.屏蔽广告："></a>3.屏蔽广告：</h2><p>经常用浏览器的同学应该都有一个痛点，网页广告太多，删除吧很费劲，不删除吧太影响阅读的心情，在谷歌浏览器里这些都不是问题，一个插件就能迅速解决。</p><ul><li><h3 id="Adblock-plus"><a href="#Adblock-plus" class="headerlink" title="Adblock plus:"></a>Adblock plus:</h3><h4 id="这是一款屏蔽广告的插件，可以屏蔽大部分网站的烦人广告，还你一个整洁的页面-支持所有主流网站，youtube广告屏蔽也无压力哦。"><a href="#这是一款屏蔽广告的插件，可以屏蔽大部分网站的烦人广告，还你一个整洁的页面-支持所有主流网站，youtube广告屏蔽也无压力哦。" class="headerlink" title="这是一款屏蔽广告的插件，可以屏蔽大部分网站的烦人广告，还你一个整洁的页面,支持所有主流网站，youtube广告屏蔽也无压力哦。"></a>这是一款屏蔽广告的插件，可以屏蔽大部分网站的烦人广告，还你一个整洁的页面,支持所有主流网站，youtube广告屏蔽也无压力哦。</h4></li></ul><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdqug2fl57j31ha0u0gs0.jpg"><h2 id="3-下载："><a href="#3-下载：" class="headerlink" title="3.下载："></a>3.下载：</h2><p>在日常生活中，我们难免会需要从网站上下载资料来离线学习，可浏览器上的下载速度往往都差强人意。众所众知，多线程是解决下载慢的有力手段，下面给大家推荐一款下载插件，让你的网速瞬间跑满带宽。</p><ul><li><h3 id="Internet-Download-Manager："><a href="#Internet-Download-Manager：" class="headerlink" title="Internet Download Manager："></a>Internet Download Manager：</h3><h4 id="IDM下载器是一款先进的下载工具-可以提升您的下载速度高达5倍-支持续传，IDM-可以让用户自动下载某些类型的文件，它可将文件划分为多个下载点以更快速度下载，并列出最近的下载，方便访问文件。"><a href="#IDM下载器是一款先进的下载工具-可以提升您的下载速度高达5倍-支持续传，IDM-可以让用户自动下载某些类型的文件，它可将文件划分为多个下载点以更快速度下载，并列出最近的下载，方便访问文件。" class="headerlink" title="IDM下载器是一款先进的下载工具,可以提升您的下载速度高达5倍,支持续传，IDM 可以让用户自动下载某些类型的文件，它可将文件划分为多个下载点以更快速度下载，并列出最近的下载，方便访问文件。"></a>IDM下载器是一款先进的下载工具,可以提升您的下载速度高达5倍,支持续传，IDM 可以让用户自动下载某些类型的文件，它可将文件划分为多个下载点以更快速度下载，并列出最近的下载，方便访问文件。</h4><div align="center"><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdquqh6o5uj304g039jr8.jpg"></div></li></ul><p>IDM最初是用于商业，所以正版是需要购买的，如果大家经济实力允许，推荐大家主持正版去官网购买。</p><p>如果你是学生党，google IDM 破解不失为一个好的办法。</p><hr><p>今天给大家推荐了几个生活中最实用的几个插件，当然还有很多实用插件可能我没提到，下次有机会再补充，也欢迎大家下方留言~</p><div align="center"><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdquwz56lfj306o06omx9.jpg"></div><p>ps：下一篇博文还是关于谷歌浏览器的，可以称为插件的进阶版，涉及几个对前端日常学习非常有帮助的插件，我们下期细说<span class="github-emoji" style="color: transparent;background:no-repeat url(https://github.githubassets.com/images/icons/emoji/unicode/1f609.png?v8) center/contain" data-src="https://github.githubassets.com/images/icons/emoji/unicode/1f609.png?v8">😉</span></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;相信读过我上一篇博文的朋友已经了解了谷歌浏览器的强大，自己用的时候却感觉还不如IE浏览器、QQ浏览器、UC浏览器等这些国产浏览器功能丰富。那只能说明是你还不会用~&lt;/p&gt;
+&lt;hr&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="工具" scheme="https://guangyuzhan.github.io/blog/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+      <category term="前端" scheme="https://guangyuzhan.github.io/blog/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
     <title>工具（一）</title>
     <link href="https://guangyuzhan.github.io/blog/posts/3ee94c8c/"/>
     <id>https://guangyuzhan.github.io/blog/posts/3ee94c8c/</id>
     <published>2020-04-01T13:18:09.999Z</published>
-    <updated>2020-04-05T10:38:33.129Z</updated>
+    <updated>2020-04-12T07:56:04.823Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\blog\assets\css\APlayer.min.css"><script src="\blog\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\blog\assets\js\Meting.min.js"></script><p>俗话说的好：“公欲成其事，必先利其器”，相信从这句话大家就可以看出一个好的辅助工具对于学习或者工作来说有多么重要，那么下面我们就来详细说说这把 “利器——Google Chrome” 。</p><hr><a id="more"></a><h3 id="1：为什么要用Google-Chrome浏览器？"><a href="#1：为什么要用Google-Chrome浏览器？" class="headerlink" title="1：为什么要用Google Chrome浏览器？"></a>1：为什么要用Google Chrome浏览器？</h3><div align=center><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdixayg7b3j308p07u0ss.jpg"/></div><p>Google Chrome，用一句话形容就是：<strong>目前世界上最好的浏览器，没有之一！</strong></p><div align=center><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdixd6quovj31ca0nk47e.jpg"/></div><p>上图来自百度统计近24个月全球浏览器排行数据，谷歌浏览器以38.67%的使用量遥遥领先。</p><div align=center><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdixdsnqhfj30ag07ut8t.jpg"/></div><p>Chrome是由Google开发的一款简单便捷的网页浏览工具。谷歌浏览器(Google Chrome)可以提帮助你快速、安全的搜索到自己需要的内容，功能强大，可以保证用户在多开网页的情况下使浏览器快速稳定运行。</p><p>用户使用量大，基本表示产品本身好，才会有这么多的人都使用，毕竟，大家都说好，才是真的好嘛。</p><div align=center><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdixek4wm0j308c08caa5.jpg"/></div><p>我是怎么接触到这个浏览器呢，其实开始我也觉得无所谓，IE就够用了，毕竟windows自带的浏览器，没广告，看着干净，可是在经历了无数次的网页崩溃以后，我放弃了，就试着找一款替代的浏览器，用过UC，QQ，搜狗等，也没用多久，广告太多了，在逛知乎的时候，看见有人推荐谷歌浏览器，就试了试，发现没广告，界面也很整洁，速度快，稳定性高，最最最强的就是可扩展性了，谷歌浏览器有一个扩展应用商店，可以安装各种扩展插件，有很多功能强大且免费的插件可以用。</p><div align=center><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdixbuje5dj315c0od451.jpg"/></div><hr><h3 id="2-如何正确使用Google-Chrome浏览器："><a href="#2-如何正确使用Google-Chrome浏览器：" class="headerlink" title="2.如何正确使用Google Chrome浏览器："></a>2.如何正确使用Google Chrome浏览器：</h3><p>有好多人问：谷歌在中国都不能用，它的浏览器能好使吗？</p><p>其实完全不用担心，谷歌浏览器是可以更改默认搜索引擎的，替换成百度一样用，而且还自带网页翻译，下面我们来看看如何安装和使用吧！</p><p>首先，下载官方的谷歌浏览器安装包安装，一定选择官方的，安全，纯净。</p><div align=center><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdixffrterj305i05a3yc.jpg"/></div><p>当然没有，众所周知咱们国家的长城安全系统对外网实行了非常严密的封锁，首当其冲的便是对外网乃至于全世界最power的浏览器，而上文的方法只能使用百度，就摒弃了谷歌浏览器的大量优点，这会给我们程序猿日常的学习带来很多不变，那么我们如何解决这个问题呢。</p><p>诸如网上很多的科学上网方法我在此也不多加累赘。在此我给大家推荐一种最省心便捷的方法：</p><p>首先我们百度极简插件，下载谷歌访问助手，如下图：</p><div align=center><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdixfwcoipj31gl0n8jw8.jpg"/></div><p>开启PP谷歌访问助手，你会惊奇的发现，你可以访问谷歌搜索了，由于外网的网站都是托管于国外的服务器，访问速度一般不会快，but 这不是个问题，宝藏都向我们招手了，难道我们还因为路远而不去？</p><div align=center><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdixgfh5oyj306y06ydfu.jpg"/></div><p>给大家推荐一个免费的vpn插件，油管速度高达2000k，油管1080k随便看，学习happy两不误。</p><div align=center><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdixh0iq10j31530nuq6q.jpg"/></div><p>安装启动Astar VPN ，记住启动的同时关闭PP助手。基础配置就结束啦。Github，Youtube刷起来。</p><div align=center><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdixhj5o1oj308407yq36.jpg"/></div><hr><p>ps：篇幅有限，诸如科学上网v2ray和ssr的问题有时间我会写一个博文具体讲述，上文中扩展程序的具体安装步骤可自行百度。</p><hr><p>Google Chrome的基础功能准备好了，下一篇我会给大家详细推荐适合学习的各个插件，都是我亲身体验过的。使用好他们，绝对让你的学习和工作事半功倍。</p><hr><div align=center><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdixhxzwqug308c08cq42.gif"/></div>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\blog\assets\css\APlayer.min.css"><script src="\blog\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\blog\assets\js\Meting.min.js"></script><p>俗话说的好：“公欲成其事，必先利其器”，相信从这句话大家就可以看出一个好的辅助工具对于学习或者工作来说有多么重要，那么下面我们就来详细说说这把 “利器——Google Chrome” 。</p><hr><a id="more"></a><h3 id="1：为什么要用Google-Chrome浏览器？"><a href="#1：为什么要用Google-Chrome浏览器？" class="headerlink" title="1：为什么要用Google Chrome浏览器？"></a>1：为什么要用Google Chrome浏览器？</h3><div align="center"><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdixayg7b3j308p07u0ss.jpg"></div><p>Google Chrome，用一句话形容就是：<strong>目前世界上最好的浏览器，没有之一！</strong></p><div align="center"><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdixd6quovj31ca0nk47e.jpg"></div><p>上图来自百度统计近24个月全球浏览器排行数据，谷歌浏览器以38.67%的使用量遥遥领先。</p><div align="center"><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdixdsnqhfj30ag07ut8t.jpg"></div><p>Chrome是由Google开发的一款简单便捷的网页浏览工具。谷歌浏览器(Google Chrome)可以提帮助你快速、安全的搜索到自己需要的内容，功能强大，可以保证用户在多开网页的情况下使浏览器快速稳定运行。</p><p>用户使用量大，基本表示产品本身好，才会有这么多的人都使用，毕竟，大家都说好，才是真的好嘛。</p><div align="center"><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdixek4wm0j308c08caa5.jpg"></div><p>我是怎么接触到这个浏览器呢，其实开始我也觉得无所谓，IE就够用了，毕竟windows自带的浏览器，没广告，看着干净，可是在经历了无数次的网页崩溃以后，我放弃了，就试着找一款替代的浏览器，用过UC，QQ，搜狗等，也没用多久，广告太多了，在逛知乎的时候，看见有人推荐谷歌浏览器，就试了试，发现没广告，界面也很整洁，速度快，稳定性高，最最最强的就是可扩展性了，谷歌浏览器有一个扩展应用商店，可以安装各种扩展插件，有很多功能强大且免费的插件可以用。</p><div align="center"><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdixbuje5dj315c0od451.jpg"></div><hr><h3 id="2-如何正确使用Google-Chrome浏览器："><a href="#2-如何正确使用Google-Chrome浏览器：" class="headerlink" title="2.如何正确使用Google Chrome浏览器："></a>2.如何正确使用Google Chrome浏览器：</h3><p>有好多人问：谷歌在中国都不能用，它的浏览器能好使吗？</p><p>其实完全不用担心，谷歌浏览器是可以更改默认搜索引擎的，替换成百度一样用，而且还自带网页翻译，下面我们来看看如何安装和使用吧！</p><p>首先，下载官方的谷歌浏览器安装包安装，一定选择官方的，安全，纯净。</p><div align="center"><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdixffrterj305i05a3yc.jpg"></div><p>当然没有，众所周知咱们国家的长城安全系统对外网实行了非常严密的封锁，首当其冲的便是对外网乃至于全世界最power的浏览器，而上文的方法只能使用百度，就摒弃了谷歌浏览器的大量优点，这会给我们程序猿日常的学习带来很多不变，那么我们如何解决这个问题呢。</p><p>诸如网上很多的科学上网方法我在此也不多加累赘。在此我给大家推荐一种最省心便捷的方法：</p><p>首先我们百度极简插件，下载谷歌访问助手，如下图：</p><div align="center"><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdixfwcoipj31gl0n8jw8.jpg"></div><p>开启PP谷歌访问助手，你会惊奇的发现，你可以访问谷歌搜索了，由于外网的网站都是托管于国外的服务器，访问速度一般不会快，but 这不是个问题，宝藏都向我们招手了，难道我们还因为路远而不去？</p><div align="center"><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdixgfh5oyj306y06ydfu.jpg"></div><p>给大家推荐一个免费的vpn插件，油管速度高达2000k，油管1080k随便看，学习happy两不误。</p><div align="center"><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdixh0iq10j31530nuq6q.jpg"></div><p>安装启动Astar VPN ，记住启动的同时关闭PP助手。基础配置就结束啦。Github，Youtube刷起来。</p><div align="center"><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdixhj5o1oj308407yq36.jpg"></div><hr><p>ps：篇幅有限，诸如科学上网v2ray和ssr的问题有时间我会写一个博文具体讲述，上文中扩展程序的具体安装步骤可自行百度。</p><hr><p>Google Chrome的基础功能准备好了，下一篇我会给大家详细推荐适合学习的各个插件，都是我亲身体验过的。使用好他们，绝对让你的学习和工作事半功倍。</p><hr><div align="center"><img src="http://ww1.sinaimg.cn/large/006baa7Zgy1gdixhxzwqug308c08cq42.gif"></div><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
     
     <summary type="html">
     
@@ -34,6 +58,10 @@
     
     
     
+      <category term="工具" scheme="https://guangyuzhan.github.io/blog/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+      <category term="前端" scheme="https://guangyuzhan.github.io/blog/tags/%E5%89%8D%E7%AB%AF/"/>
+    
   </entry>
   
   <entry>
@@ -41,9 +69,9 @@
     <link href="https://guangyuzhan.github.io/blog/posts/d95d7e09/"/>
     <id>https://guangyuzhan.github.io/blog/posts/d95d7e09/</id>
     <published>2020-03-27T09:56:59.000Z</published>
-    <updated>2020-04-05T08:44:52.016Z</updated>
+    <updated>2020-04-12T07:56:38.168Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\blog\assets\css\APlayer.min.css"><script src="\blog\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\blog\assets\js\Meting.min.js"></script><hr><a id="more"></a><h2 id="一：概述"><a href="#一：概述" class="headerlink" title="一：概述"></a>一：概述</h2><h3 id="这是我的第一篇博客，主要是分享IT成长之路的坎坷，不同于网上技术大牛的代码超快处理，我会从一个科技小白的角度来认识问题，解剖问题，最后解决问题，相信这些会对你更有帮助。"><a href="#这是我的第一篇博客，主要是分享IT成长之路的坎坷，不同于网上技术大牛的代码超快处理，我会从一个科技小白的角度来认识问题，解剖问题，最后解决问题，相信这些会对你更有帮助。" class="headerlink" title="这是我的第一篇博客，主要是分享IT成长之路的坎坷，不同于网上技术大牛的代码超快处理，我会从一个科技小白的角度来认识问题，解剖问题，最后解决问题，相信这些会对你更有帮助。"></a>这是我的第一篇博客，主要是分享IT成长之路的坎坷，不同于网上技术大牛的代码超快处理，我会从一个科技小白的角度来认识问题，解剖问题，最后解决问题，相信这些会对你更有帮助。</h3><h2 id="二-今后主要涉及内容："><a href="#二-今后主要涉及内容：" class="headerlink" title="二.今后主要涉及内容："></a>二.今后主要涉及内容：</h2><h3 id="1-python基础知识，网页爬虫。"><a href="#1-python基础知识，网页爬虫。" class="headerlink" title="(1).python基础知识，网页爬虫。"></a>(1).python基础知识，网页爬虫。</h3><h3 id="2-html-html5-css-js等前端知识"><a href="#2-html-html5-css-js等前端知识" class="headerlink" title="(2).html-html5,css,js等前端知识"></a>(2).html-html5,css,js等前端知识</h3><h3 id="3-Linux操作系统基本操作指令"><a href="#3-Linux操作系统基本操作指令" class="headerlink" title="(3).Linux操作系统基本操作指令"></a>(3).Linux操作系统基本操作指令</h3><h3 id="4-Mysql数据库基本操作指令"><a href="#4-Mysql数据库基本操作指令" class="headerlink" title="(4).Mysql数据库基本操作指令"></a>(4).Mysql数据库基本操作指令</h3><h3 id="后期可能会涉及java，php等一系列知识。"><a href="#后期可能会涉及java，php等一系列知识。" class="headerlink" title="后期可能会涉及java，php等一系列知识。"></a>后期可能会涉及java，php等一系列知识。</h3><hr><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1344409334&auto=0&height=66"></iframe><hr><h3 id="想了解更多请猛戳-关于我"><a href="#想了解更多请猛戳-关于我" class="headerlink" title="想了解更多请猛戳 关于我 "></a>想了解更多请猛戳<a href="https://guangyuzhan.github.io/blog/about.html" title=" 关于我 "> 关于我 </a></h3>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\blog\assets\css\APlayer.min.css"><script src="\blog\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\blog\assets\js\Meting.min.js"></script><hr><a id="more"></a><h2 id="一：概述"><a href="#一：概述" class="headerlink" title="一：概述"></a>一：概述</h2><h3 id="这是我的第一篇博客，主要是分享IT成长之路的坎坷，不同于网上技术大牛的代码超快处理，我会从一个科技小白的角度来认识问题，解剖问题，最后解决问题，相信这些会对你更有帮助。"><a href="#这是我的第一篇博客，主要是分享IT成长之路的坎坷，不同于网上技术大牛的代码超快处理，我会从一个科技小白的角度来认识问题，解剖问题，最后解决问题，相信这些会对你更有帮助。" class="headerlink" title="这是我的第一篇博客，主要是分享IT成长之路的坎坷，不同于网上技术大牛的代码超快处理，我会从一个科技小白的角度来认识问题，解剖问题，最后解决问题，相信这些会对你更有帮助。"></a>这是我的第一篇博客，主要是分享IT成长之路的坎坷，不同于网上技术大牛的代码超快处理，我会从一个科技小白的角度来认识问题，解剖问题，最后解决问题，相信这些会对你更有帮助。</h3><h2 id="二-今后主要涉及内容："><a href="#二-今后主要涉及内容：" class="headerlink" title="二.今后主要涉及内容："></a>二.今后主要涉及内容：</h2><h3 id="1-python基础知识，网页爬虫。"><a href="#1-python基础知识，网页爬虫。" class="headerlink" title="(1).python基础知识，网页爬虫。"></a>(1).python基础知识，网页爬虫。</h3><h3 id="2-html-html5-css-js等前端知识"><a href="#2-html-html5-css-js等前端知识" class="headerlink" title="(2).html-html5,css,js等前端知识"></a>(2).html-html5,css,js等前端知识</h3><h3 id="3-Linux操作系统基本操作指令"><a href="#3-Linux操作系统基本操作指令" class="headerlink" title="(3).Linux操作系统基本操作指令"></a>(3).Linux操作系统基本操作指令</h3><h3 id="4-Mysql数据库基本操作指令"><a href="#4-Mysql数据库基本操作指令" class="headerlink" title="(4).Mysql数据库基本操作指令"></a>(4).Mysql数据库基本操作指令</h3><h3 id="后期可能会涉及java，php等一系列知识。"><a href="#后期可能会涉及java，php等一系列知识。" class="headerlink" title="后期可能会涉及java，php等一系列知识。"></a>后期可能会涉及java，php等一系列知识。</h3><hr><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=1344409334&amp;auto=0&amp;height=66"></iframe><hr><h3 id="想了解更多请猛戳-关于我"><a href="#想了解更多请猛戳-关于我" class="headerlink" title="想了解更多请猛戳 关于我 "></a>想了解更多请猛戳<a href="https://guangyuzhan.github.io/blog/about.html" title=" 关于我 "> 关于我 </a></h3><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
     
     <summary type="html">
     
@@ -52,6 +80,26 @@
     </summary>
     
     
+    
+      <category term="me" scheme="https://guangyuzhan.github.io/blog/tags/me/"/>
+    
+      <category term="python,python基础" scheme="https://guangyuzhan.github.io/blog/tags/python-python%E5%9F%BA%E7%A1%80/"/>
+    
+      <category term="python,爬虫" scheme="https://guangyuzhan.github.io/blog/tags/python-%E7%88%AC%E8%99%AB/"/>
+    
+      <category term="前端,html" scheme="https://guangyuzhan.github.io/blog/tags/%E5%89%8D%E7%AB%AF-html/"/>
+    
+      <category term="前端,css" scheme="https://guangyuzhan.github.io/blog/tags/%E5%89%8D%E7%AB%AF-css/"/>
+    
+      <category term="前端,js" scheme="https://guangyuzhan.github.io/blog/tags/%E5%89%8D%E7%AB%AF-js/"/>
+    
+      <category term="linux" scheme="https://guangyuzhan.github.io/blog/tags/linux/"/>
+    
+      <category term="mysql" scheme="https://guangyuzhan.github.io/blog/tags/mysql/"/>
+    
+      <category term="java" scheme="https://guangyuzhan.github.io/blog/tags/java/"/>
+    
+      <category term="php" scheme="https://guangyuzhan.github.io/blog/tags/php/"/>
     
   </entry>
   
@@ -60,9 +108,9 @@
     <link href="https://guangyuzhan.github.io/blog/posts/4a17b156/"/>
     <id>https://guangyuzhan.github.io/blog/posts/4a17b156/</id>
     <published>2020-03-27T04:41:15.821Z</published>
-    <updated>2020-04-05T08:44:52.013Z</updated>
+    <updated>2020-04-12T07:56:29.527Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\blog\assets\css\APlayer.min.css"><script src="\blog\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\blog\assets\js\Meting.min.js"></script><hr><a id="more"></a><p>Welcome to <a href="https://https://guangyuzhan.github.io/blog/" target="_blank" rel="noopener">My Blog</a>! This is my first post.Then we can talk about It.Just think me as your goood frend.<br>Just do it!</p><hr><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1320129059&auto=0&height=66"></iframe><hr>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\blog\assets\css\APlayer.min.css"><script src="\blog\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\blog\assets\js\Meting.min.js"></script><hr><a id="more"></a><p>Welcome to <a href="https://https://guangyuzhan.github.io/blog/" target="_blank" rel="noopener">My Blog</a>! This is my first post.Then we can talk about It.Just think me as your goood frend.<br>Just do it!</p><hr><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=1320129059&amp;auto=0&amp;height=66"></iframe><hr><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
     
     <summary type="html">
     
@@ -71,6 +119,8 @@
     </summary>
     
     
+    
+      <category term="me" scheme="https://guangyuzhan.github.io/blog/tags/me/"/>
     
   </entry>
   
